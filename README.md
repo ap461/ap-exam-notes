@@ -1,122 +1,135 @@
-# AP Exam Study Notes
+# AP Exam Notes 2026 (AP Biology, AP Human Geography, AP CSP)
 
-> Free, organized study notes for **AP Biology**, **AP Human Geography**, and **AP Computer Science Principles**. Built for high school students preparing for AP exams.
+Quick revision notes for AP exams including AP Biology, AP Human Geography, and AP Computer Science Principles.
 
-**Practice with interactive questions, flashcards, and progress tracking →** [apscore5.com](https://www.apscore5.com)
+These are **short, summary-style notes** designed for fast revision.  
+For full lessons, practice questions, flashcards, and FRQs, use APScore5.
 
----
-
-## What's inside
-
-Quick-reference notes for every unit and microtopic across three AP courses. Each note includes:
-
-- A clear definition (1-2 sentences)
-- Key terms you need to know
-- Common AP exam mistakes
-- Links to full practice on apscore5.com
-
-These are study summaries — not full textbooks. For complete guides with practice questions, flashcards, and FRQ examples, visit the live course pages.
+👉 Start full preparation here: https://www.apscore5.com/
 
 ---
 
-## AP Courses
+## 📘 AP Study Guides
 
-### 🧬 [AP Biology](./ap-biology/)
-Cells, genetics, evolution, ecology, data interpretation, and FRQ reasoning.
+### AP Biology Notes (Quick Revision)
 
-- [Unit 1: Chemistry of Life](./ap-biology/unit-1-chemistry-of-life/)
-- [Unit 2: Cell Structure and Function](./ap-biology/unit-2-cell-structure-and-function/)
-- [Unit 3: Cellular Energetics](./ap-biology/unit-3-cellular-energetics/)
-- [Unit 4: Cell Communication and Cell Cycle](./ap-biology/unit-4-cell-communication-and-cell-cycle/)
-- [Unit 5: Heredity](./ap-biology/unit-5-heredity/)
-- [Unit 6: Gene Expression and Regulation](./ap-biology/unit-6-gene-expression-and-regulation/)
-- [Unit 7: Natural Selection](./ap-biology/unit-7-natural-selection/)
-- [Unit 8: Ecology](./ap-biology/unit-8-ecology/)
+Covers core topics like chemistry of life, cells, energetics, genetics, evolution, and ecology.
 
-**Full AP Biology course →** [apscore5.com/ap-biology](https://www.apscore5.com/ap-biology)
+- Course overview → https://www.apscore5.com/ap-biology  
+- Unit 1: Chemistry of Life → https://www.apscore5.com/ap-biology/unit-1-chemistry-of-life  
+- Unit 2: Cell Structure → https://www.apscore5.com/ap-biology/unit-2-cell-structure-and-function  
+- Unit 3: Cellular Energetics → https://www.apscore5.com/ap-biology/unit-3-cellular-energetics  
+- Unit 4: Cell Communication → https://www.apscore5.com/ap-biology/unit-4-cell-communication-and-cell-cycle  
+- Unit 5: Heredity → https://www.apscore5.com/ap-biology/unit-5-heredity  
+- Unit 6: Gene Expression → https://www.apscore5.com/ap-biology/unit-6-gene-expression-and-regulation  
+- Unit 7: Natural Selection → https://www.apscore5.com/ap-biology/unit-7-natural-selection  
+- Unit 8: Ecology → https://www.apscore5.com/ap-biology/unit-8-ecology  
 
----
-
-### 🌍 [AP Human Geography](./ap-human-geography/)
-Maps, population, migration, culture, agriculture, cities, and economic development.
-
-- [Unit 1: Thinking Geographically](./ap-human-geography/unit-1-thinking-geographically/)
-- [Unit 2: Population and Migration](./ap-human-geography/unit-2-population-and-migration/)
-- [Unit 3: Cultural Patterns and Processes](./ap-human-geography/unit-3-cultural-patterns-and-processes/)
-- [Unit 4: Political Patterns and Processes](./ap-human-geography/unit-4-political-patterns-and-processes/)
-- [Unit 5: Agriculture and Rural Land Use](./ap-human-geography/unit-5-agriculture-and-rural-land-use-patterns-and-processes/)
-- [Unit 6: Cities and Urban Land Use](./ap-human-geography/unit-6-cities-and-urban-land-use-patterns-and-processes/)
-- [Unit 7: Industrial and Economic Development](./ap-human-geography/unit-7-industrial-and-economic-development-patterns-and-processes/)
-
-**Full AP Human Geography course →** [apscore5.com/ap-human-geography](https://www.apscore5.com/ap-human-geography)
+👉 These are summary notes. Full explanations + practice available on APScore5.
 
 ---
 
-### 💻 [AP Computer Science Principles](./ap-computer-science-principles/)
-Algorithms, data, internet, programming, cybersecurity, and the impact of computing.
+### 🌍 AP Human Geography Notes (Quick Revision)
 
-- [Unit 1: Creative Development](./ap-computer-science-principles/unit-1-creative-development/)
-- [Unit 2: Data](./ap-computer-science-principles/unit-2-data/)
-- [Unit 3: Algorithms and Programming](./ap-computer-science-principles/unit-3-algorithms-and-programming/)
-- [Unit 4: Computer Systems and Networks](./ap-computer-science-principles/unit-4-computer-systems-and-networks/)
-- [Unit 5: Impact of Computing](./ap-computer-science-principles/unit-5-impact-of-computing/)
+Covers maps, geographic data, population, migration, culture, political geography, agriculture, cities, and development.
 
-**Full AP CSP course →** [apscore5.com/ap-computer-science-principles](https://www.apscore5.com/ap-computer-science-principles)
+- Course overview → https://www.apscore5.com/ap-human-geography  
+- Unit 1: Thinking Geographically → https://www.apscore5.com/ap-human-geography/unit-1-thinking-geographically  
+- Map Types → https://www.apscore5.com/ap-human-geography/unit-1-thinking-geographically/map-types  
+- Map Projections → https://www.apscore5.com/ap-human-geography/unit-1-thinking-geographically/map-projections  
+- Unit 2: Population & Migration → https://www.apscore5.com/ap-human-geography/unit-2-population-and-migration  
+- Unit 3: Cultural Patterns → https://www.apscore5.com/ap-human-geography/unit-3-cultural-patterns-and-processes  
+- Unit 4: Political Geography → https://www.apscore5.com/ap-human-geography/unit-4-political-patterns-and-processes  
+- Unit 5: Agriculture → https://www.apscore5.com/ap-human-geography/unit-5-agriculture-and-rural-land-use-patterns-and-processes  
+- Unit 6: Cities → https://www.apscore5.com/ap-human-geography/unit-6-cities-and-urban-land-use-patterns-and-processes  
+- Unit 7: Economic Development → https://www.apscore5.com/ap-human-geography/unit-7-industrial-and-economic-development-patterns-and-processes  
 
----
-
-## How to use these notes
-
-1. **Find your unit** in the course folder
-2. **Open a microtopic** for a quick definition and key terms
-3. **Practice on apscore5.com** for MCQs, flashcards, and FRQ examples
-4. **Track your progress** with a free apscore5.com account
+👉 Use APScore5 for full concept explanations and practice.
 
 ---
 
-## AP exam resources
+### 💻 AP Computer Science Principles Notes (Quick Revision)
 
-| Topic | Link |
-|---|---|
-| AP exam dates | [apscore5.com/ap-exam-schedule](https://www.apscore5.com/ap-exam-schedule) |
-| Registration & deadlines | [apscore5.com/ap-exam-registration](https://www.apscore5.com/ap-exam-registration) |
-| Exam fees & waivers | [apscore5.com/ap-exam-cost](https://www.apscore5.com/ap-exam-cost) |
-| Scores & college credit | [apscore5.com/ap-exam-scores](https://www.apscore5.com/ap-exam-scores) |
-| What to bring | [apscore5.com/ap-exam-checklist](https://www.apscore5.com/ap-exam-checklist) |
+Covers programming, algorithms, data, internet, and impact of computing.
 
----
+- Course overview → https://www.apscore5.com/ap-computer-science-principles  
+- Unit 1: Creative Development → https://www.apscore5.com/ap-computer-science-principles/unit-1-creative-development  
+- Unit 2: Data → https://www.apscore5.com/ap-computer-science-principles/unit-2-data  
+- Unit 3: Algorithms → https://www.apscore5.com/ap-computer-science-principles/unit-3-algorithms-and-programming  
+- Unit 4: Systems & Networks → https://www.apscore5.com/ap-computer-science-principles/unit-4-computer-systems-and-networks  
+- Unit 5: Impact of Computing → https://www.apscore5.com/ap-computer-science-principles/unit-5-impact-of-computing  
 
-## Frequently asked
-
-**Are these notes free?**
-Yes. Everything in this repo is free to read, share, and use under the MIT license.
-
-**Are these notes complete?**
-No — they are quick-reference summaries. The full guides with practice questions, flashcards, and FRQ examples live on [apscore5.com](https://www.apscore5.com).
-
-**How often are these updated?**
-Notes are auto-synced from apscore5.com whenever course content is updated. Check the timestamp on any individual note for its last update.
-
-**Is this affiliated with the College Board?**
-No. APScore5 is an independent study resource. AP® and Advanced Placement® are trademarks of the College Board.
-
-**Can teachers use these notes?**
-Yes. Teachers and students are welcome to use, share, and adapt these notes under the MIT license.
+👉 These notes are summaries. Practice questions available on APScore5.
 
 ---
 
-## About APScore5
+## 🧠 How to Use These Notes
 
-APScore5 is a free AP exam practice platform built by parents and teachers. Students use it to practice in short daily sessions, track progress, and improve weak topics before exam day.
-
-[Learn more about APScore5 →](https://www.apscore5.com/about)
-
----
-
-## License
-
-MIT License — free to use, share, and adapt.
+1. Pick your AP course  
+2. Open the relevant unit  
+3. Read quick summaries  
+4. Practice questions on APScore5  
+5. Repeat weak topics  
 
 ---
 
-*Notes auto-synced from [apscore5.com](https://www.apscore5.com). Found an error? [Open an issue](../../issues).*
+## 🚀 Best Way to Score a 5
+
+Reading notes is not enough.
+
+To score a 5:
+- Practice MCQs  
+- Solve FRQs  
+- Review mistakes  
+- Repeat daily  
+
+👉 Practice here: https://www.apscore5.com/courses  
+
+---
+
+## 📅 AP Exam Resources
+
+- AP Exam Schedule → https://www.apscore5.com/ap-exam-schedule  
+- AP Exam Registration → https://www.apscore5.com/ap-exam-registration  
+- AP Exam Cost → https://www.apscore5.com/ap-exam-cost  
+- AP Exam Scores → https://www.apscore5.com/ap-exam-scores  
+- AP Exam Checklist → https://www.apscore5.com/ap-exam-checklist  
+
+---
+
+## ❓ FAQ
+
+### Are these notes enough to get a 5?
+They help with revision, but you must practice questions to score high.
+
+### Are these official College Board materials?
+No. APScore5 is an independent study platform.
+
+### What should I do after reading notes?
+Go to APScore5 and solve MCQs + FRQs.
+
+---
+
+## 🌐 About APScore5
+
+APScore5 is a free AP exam prep platform with:
+- Microtopic lessons  
+- Flashcards  
+- MCQs  
+- FRQs  
+- Daily study system  
+
+👉 Start here: https://www.apscore5.com/
+
+---
+
+## ⚠️ Important
+
+These notes are **summaries only**.  
+For complete explanations, examples, and exam-level practice, use APScore5.
+
+---
+
+## 📜 License
+
+MIT License
